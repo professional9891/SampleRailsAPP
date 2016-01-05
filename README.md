@@ -1,0 +1,1 @@
+This RAILS APP is created only for demo purpose.
